@@ -19,6 +19,7 @@ Model files trained with Tomoe data.
 
 %package ja
 Summary:	Zinnia Recognition models - Japanese data
+Group:		System/Internationalization
 Provides:	%name = %version-%release
 Requires:	locales-ja
 
@@ -27,6 +28,7 @@ Japanese Model files trained with Tomoe data.
 
 %package zh_CN
 Summary:	Zinnia Recognition models - Simplified Chinese data
+Group:		System/Internationalization
 Provides:	%name = %version-%release
 Requires:	locales-zh_CN
 
