@@ -56,3 +56,16 @@ rm -rf %{buildroot}
 %files zh_CN
 %defattr (-,root,root)
 %{_prefix}/lib/zinnia/model/tomoe/handwriting-zh_CN.model
+
+
+%changelog
+* Mon Sep 21 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.6.0.20080911-2mdv2010.0
++ Revision: 446328
+- rebuild
+
+* Sun Feb 15 2009 Funda Wang <fundawang@mandriva.org> 0.6.0.20080911-1mdv2009.1
++ Revision: 340516
+- add groups
+- import zinnia-tomoe
+
+
