@@ -3,8 +3,8 @@
 
 Summary: 	Zinnia Recognition models
 Name: 		zinnia-tomoe
-Version: 	%{tomoe_version}.%{snapdate}
-Release: 	4
+Version:	0.6.0_20080911
+Release:	1
 License: 	LGPLv2+
 Group: 		System/Internationalization
 Source: 	http://downloads.sourceforge.net/zinnia/%{name}-%tomoe_version-%snapdate.tar.bz2
