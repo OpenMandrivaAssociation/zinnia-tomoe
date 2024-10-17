@@ -8,7 +8,7 @@ Release:	1
 License: 	LGPLv2+
 Group: 		System/Internationalization
 Source: 	http://downloads.sourceforge.net/zinnia/%{name}-%tomoe_version-%snapdate.tar.bz2
-URL: 		http://zinnia.sourceforge.net/
+URL: 		https://zinnia.sourceforge.net/
 BuildArch:	noarch
 BuildRequires:	zinnia >= 0.02
 Requires:	zinnia >= 0.02
